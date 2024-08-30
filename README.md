@@ -42,6 +42,8 @@ Este curso prioriza la aplicacion practica por encima de la evaluacion teorica, 
 
 El control digital es un curso multidisciplinar que combina la electrónica, programación y análisis de señales 
 
+## Referencias
 
+JORGE EDUARDO COTE BALLESTEROS (2014). E.P.1.Control digital. Porcentajes y temas. universidad ECCI
 
 
