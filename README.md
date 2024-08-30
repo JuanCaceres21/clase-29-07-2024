@@ -28,13 +28,13 @@ Al igual que todos los cursos, este se divide en tres cortes, en donde cada uno 
 |---------------|-----------------------------------------------|
 |       Parcial       |                       10%                       |
 |      Apuntes       |                       5%                       |
-|      laboratorios       |                       15%                       |
+|      Laboratorios       |                       15%                       |
 
 | **Corte 3** | **Porcentajes** |
 |---------------|-----------------------------------------------|
 |       Parcial       |                       20%                       |
 |      Apuntes       |                       5%                       |
-|      laboratorios       |                       25%                       |
+|      Laboratorios       |                       25%                       |
 
 ## Conclusiones 
 
